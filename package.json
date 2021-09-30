@@ -1,0 +1,16 @@
+{
+  "name": "filerandomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node seed.js",
+    "bundle": "pkg index.js --targets=win --output=dist/FileRandomizer --debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pkg": "^5.3.2"
+  }
+}
