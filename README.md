@@ -5,4 +5,4 @@ This scrambles a bunch of file names together
 When you want to scramble source audio files from a game to make it chaotic.. 😬
 
 ### Does this have any other purpose
-I don't think so, but I think it will be funny to use !
+I don't think so, but it was funny swapping audio files of an old retro game
